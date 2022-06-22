@@ -1,2 +1,17 @@
 #!/bin/bash
-
+-rwxr-xr-x 1 996 992 66 0-current_working_directory
+-rwxr-xr-x 1 996 992 13 10-back
+-rwxr-xr-x 1 996 992 13 11-lists
+-rwxr-xr-x 1 996 992 13 12-file_type
+-rwxr-xr-x 1 996 992 13 13-symbolic_link
+-rwxr-xr-x 1 996 992 13 14-copy_html
+-rwxr-xr-x 1 996 992 51 1-listit
+-rwxr-xr-x 1 996 992 13 2-bring_me_home
+-rwxr-xr-x 1 996 992 13 3-listfiles
+-rwxr-xr-x 1 996 992 13 4-listmorefiles
+-rwxr-xr-x 1 996 992 13 5-listfilesdigitonly
+-rwxr-xr-x 1 996 992 13 6-firstdirectory
+-rwxr-xr-x 1 996 992 13 7-movethatfile
+-rwxr-xr-x 1 996 992 13 8-firstdelete
+-rwxr-xr-x 1 996 992 13 9-firstdirdeletion
+-rw-r--r-- 1 996 992 16 README.md
