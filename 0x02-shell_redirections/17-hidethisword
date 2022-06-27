@@ -1,0 +1,3 @@
+#!/bin/bash
+systemd-timesync:x:101:101:systemd Time Synchronization,,,:/run/systemd:/usr/sbii                                                                                          
+n/nologin 
