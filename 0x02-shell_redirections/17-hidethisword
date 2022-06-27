@@ -1,3 +1,4 @@
 #!/bin/bash
-systemd-timesync:x:101:101:systemd Time Synchronization,,,:/run/systemd:/usr/sbii                                                                                          
-n/nologin 
+root@2a734aa7ec27:/# vi /etc/ssh/sshd_config                                                                                                                               
+root@2a734aa7ec27:/# cat /etc/passwd
+
