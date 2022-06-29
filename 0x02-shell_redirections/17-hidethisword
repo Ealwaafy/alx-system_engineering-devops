@@ -1,4 +1,2 @@
 #!/bin/bash
-root@2a734aa7ec27:/# vi /etc/ssh/sshd_config                                                                                                                               
-root@2a734aa7ec27:/# cat /etc/passwd
-
+grep -v "bin" /etc/passwd
